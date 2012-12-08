@@ -19,7 +19,7 @@ namespace InteractiveScreen
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("ahoj svete");
+            MessageBox.Show("ahoj1 svete");
         }
     }
 }
