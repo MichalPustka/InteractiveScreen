@@ -19,7 +19,7 @@ namespace InteractiveScreen
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("ondra");
+            MessageBox.Show("ssdfdf");
         }
     }
 }
